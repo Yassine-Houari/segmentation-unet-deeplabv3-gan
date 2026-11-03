@@ -1,0 +1,9 @@
+torch
+torchvision
+albumentations
+opencv-python
+pycocotools
+numpy
+matplotlib
+requests
+tqdm
